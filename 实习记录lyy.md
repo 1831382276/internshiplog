@@ -15,6 +15,6 @@
   
 * 7.12
   * 首次参加print计划会议
-  * 学习软件测试基础[软件测试基础笔记]（）
+  * 学习软件测试基础软件 [测试基础笔记](https://gitlab.inhand.design/elements/intern-worklog/blob/1ebc05865c2496db600864627f0fc9c3356fb7fd/luoyy/softwaretest.md)
 
 ![微信图片_20190712180435](C:\Users\61769\Pictures\Saved Pictures\微信图片_20190712180435.png)
